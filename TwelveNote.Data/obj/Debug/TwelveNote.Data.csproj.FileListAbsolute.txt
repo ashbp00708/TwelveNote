@@ -33,3 +33,6 @@ C:\ElevenFiftyProjects\TwelveNote\TwelveNote.Data\obj\Debug\TwelveNote.Data.cspr
 C:\ElevenFiftyProjects\TwelveNote\TwelveNote.Data\obj\Debug\TwelveNote.Data.csproj.CopyComplete
 C:\ElevenFiftyProjects\TwelveNote\TwelveNote.Data\obj\Debug\TwelveNote.Data.dll
 C:\ElevenFiftyProjects\TwelveNote\TwelveNote.Data\obj\Debug\TwelveNote.Data.pdb
+C:\ElevenFiftyProjects\TwelveNote\TwelveNote.Data\obj\Debug\TwelveNote.Data.Migrations.InitialCreate.resources
+C:\ElevenFiftyProjects\TwelveNote\TwelveNote.Data\obj\Debug\TwelveNote.Data.csproj.GenerateResource.cache
+C:\ElevenFiftyProjects\TwelveNote\TwelveNote.Data\obj\Debug\TwelveNote.Data.Migrations.TwelveNoteDataAfterPostToken.resources
