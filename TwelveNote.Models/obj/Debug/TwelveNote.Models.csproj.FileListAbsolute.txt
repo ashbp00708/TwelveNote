@@ -1,0 +1,16 @@
+C:\ElevenFiftyProjects\TwelveNote\TwelveNote.Models\bin\Debug\TwelveNote.Models.dll.config
+C:\ElevenFiftyProjects\TwelveNote\TwelveNote.Models\bin\Debug\TwelveNote.Models.dll
+C:\ElevenFiftyProjects\TwelveNote\TwelveNote.Models\bin\Debug\TwelveNote.Models.pdb
+C:\ElevenFiftyProjects\TwelveNote\TwelveNote.Models\bin\Debug\EntityFramework.dll
+C:\ElevenFiftyProjects\TwelveNote\TwelveNote.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\ElevenFiftyProjects\TwelveNote\TwelveNote.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\ElevenFiftyProjects\TwelveNote\TwelveNote.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\ElevenFiftyProjects\TwelveNote\TwelveNote.Models\bin\Debug\EntityFramework.xml
+C:\ElevenFiftyProjects\TwelveNote\TwelveNote.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\ElevenFiftyProjects\TwelveNote\TwelveNote.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\ElevenFiftyProjects\TwelveNote\TwelveNote.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\ElevenFiftyProjects\TwelveNote\TwelveNote.Models\obj\Debug\TwelveNote.Models.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\TwelveNote\TwelveNote.Models\obj\Debug\TwelveNote.Models.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\TwelveNote\TwelveNote.Models\obj\Debug\TwelveNote.Models.csproj.CopyComplete
+C:\ElevenFiftyProjects\TwelveNote\TwelveNote.Models\obj\Debug\TwelveNote.Models.dll
+C:\ElevenFiftyProjects\TwelveNote\TwelveNote.Models\obj\Debug\TwelveNote.Models.pdb
