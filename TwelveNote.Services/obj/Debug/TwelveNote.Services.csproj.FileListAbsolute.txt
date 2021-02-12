@@ -14,3 +14,9 @@ C:\ElevenFiftyProjects\TwelveNote\TwelveNote.Services\obj\Debug\TwelveNote.Servi
 C:\ElevenFiftyProjects\TwelveNote\TwelveNote.Services\obj\Debug\TwelveNote.Services.csproj.CopyComplete
 C:\ElevenFiftyProjects\TwelveNote\TwelveNote.Services\obj\Debug\TwelveNote.Services.dll
 C:\ElevenFiftyProjects\TwelveNote\TwelveNote.Services\obj\Debug\TwelveNote.Services.pdb
+C:\ElevenFiftyProjects\TwelveNote\TwelveNote.Services\bin\Debug\TwelveNote.Data.dll
+C:\ElevenFiftyProjects\TwelveNote\TwelveNote.Services\bin\Debug\TwelveNote.Models.dll
+C:\ElevenFiftyProjects\TwelveNote\TwelveNote.Services\bin\Debug\TwelveNote.Data.pdb
+C:\ElevenFiftyProjects\TwelveNote\TwelveNote.Services\bin\Debug\TwelveNote.Data.dll.config
+C:\ElevenFiftyProjects\TwelveNote\TwelveNote.Services\bin\Debug\TwelveNote.Models.pdb
+C:\ElevenFiftyProjects\TwelveNote\TwelveNote.Services\bin\Debug\TwelveNote.Models.dll.config
