@@ -21,15 +21,15 @@ namespace TwelveNote.WebAPI.Controllers
         }
         public IHttpActionResult Post(NoteCreate note)
         {
-            if (!ModelState.IsValid)
-                return BadRequest(ModelState);
+           if (!ModelState.IsValid)
+               return BadRequest(ModelState);
 
-            var service = CreateNoteService();
+           var service = CreateNoteService();
 
-            if (!service.CreateNote(note))
-                return InternalServerError();
+           if (!service.CreateNote(note))
+               return InternalServerError();
 
-            return Ok();
+           return Ok();
         }
         private NoteService CreateNoteService()
         {
@@ -51,6 +51,15 @@ namespace TwelveNote.WebAPI.Controllers
             var service = CreateNoteService();
 
             if (!service.UpdateNote(note))
+                return InternalServerError();
+
+            return Ok();
+        }
+        public IHttpActionResult Delete(int id)
+        {
+            var service = CreateNoteService();
+
+            if (!service.DeleteNote(id))
                 return InternalServerError();
 
             return Ok();
