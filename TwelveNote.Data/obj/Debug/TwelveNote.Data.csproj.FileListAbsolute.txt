@@ -36,3 +36,5 @@ C:\ElevenFiftyProjects\TwelveNote\TwelveNote.Data\obj\Debug\TwelveNote.Data.pdb
 C:\ElevenFiftyProjects\TwelveNote\TwelveNote.Data\obj\Debug\TwelveNote.Data.Migrations.InitialCreate.resources
 C:\ElevenFiftyProjects\TwelveNote\TwelveNote.Data\obj\Debug\TwelveNote.Data.csproj.GenerateResource.cache
 C:\ElevenFiftyProjects\TwelveNote\TwelveNote.Data\obj\Debug\TwelveNote.Data.Migrations.TwelveNoteDataAfterPostToken.resources
+C:\ElevenFiftyProjects\TwelveNote\TwelveNote.Data\obj\Debug\TwelveNote.Data.Migrations.createCategoryClass.resources
+C:\ElevenFiftyProjects\TwelveNote\TwelveNote.Data\obj\Debug\TwelveNote.Data.Migrations.addPropToIdentityModel.resources

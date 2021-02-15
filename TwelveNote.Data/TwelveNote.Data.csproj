@@ -84,6 +84,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Category.cs" />
     <Compile Include="IdentityModels.cs" />
     <Compile Include="Migrations\202102112145450_InitialCreate.cs" />
     <Compile Include="Migrations\202102112145450_InitialCreate.Designer.cs">
@@ -92,6 +93,14 @@
     <Compile Include="Migrations\202102112155287_TwelveNoteDataAfterPostToken.cs" />
     <Compile Include="Migrations\202102112155287_TwelveNoteDataAfterPostToken.Designer.cs">
       <DependentUpon>202102112155287_TwelveNoteDataAfterPostToken.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202102152341229_createCategoryClass.cs" />
+    <Compile Include="Migrations\202102152341229_createCategoryClass.Designer.cs">
+      <DependentUpon>202102152341229_createCategoryClass.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202102152350214_addPropToIdentityModel.cs" />
+    <Compile Include="Migrations\202102152350214_addPropToIdentityModel.Designer.cs">
+      <DependentUpon>202102152350214_addPropToIdentityModel.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Notes.cs" />
@@ -107,6 +116,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202102112155287_TwelveNoteDataAfterPostToken.resx">
       <DependentUpon>202102112155287_TwelveNoteDataAfterPostToken.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202102152341229_createCategoryClass.resx">
+      <DependentUpon>202102152341229_createCategoryClass.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202102152350214_addPropToIdentityModel.resx">
+      <DependentUpon>202102152350214_addPropToIdentityModel.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
