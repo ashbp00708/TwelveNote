@@ -123,3 +123,5 @@ C:\ElevenFiftyProjects\TwelveNote\TwelveNote.WebAPI\bin\Microsoft.CodeDom.Provid
 C:\ElevenFiftyProjects\TwelveNote\TwelveNote.WebAPI\obj\Debug\TwelveNote.WebAPI.csproj.CopyComplete
 C:\ElevenFiftyProjects\TwelveNote\TwelveNote.WebAPI\obj\Debug\TwelveNote.WebAPI.dll
 C:\ElevenFiftyProjects\TwelveNote\TwelveNote.WebAPI\obj\Debug\TwelveNote.WebAPI.pdb
+C:\ElevenFiftyProjects\TwelveNote\TwelveNote.WebAPI\bin\Swashbuckle.Core.dll
+C:\ElevenFiftyProjects\TwelveNote\TwelveNote.WebAPI\bin\WebActivatorEx.dll
